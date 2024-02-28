@@ -13,7 +13,7 @@ public class Task01 {
         int sum = firstNumber + secondNumber;
         float averageValue = (float) sum / 2;
 //        System.out.println("Cумма: " firstNumber + secondNumber);
-        System.out.println("—умма: " + sum); // Line breakpoint:Task01 [line: 16] - main(String[])
-        System.out.println("—реднее значение: " + averageValue);
+        System.out.println("Сумма: " + sum); // Line breakpoint:Task01 [line: 16] - main(String[])
+        System.out.println("Среднее значение: " + averageValue);
     }
 }
